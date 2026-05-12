@@ -1,5 +1,5 @@
 # Agentic AI Learning Plan — Master Summary
-**Created:** May 2026 | **For:** Gaurav Verma | **Goal:** Fundamentals → Advanced Agentic AI → Saleable Products
+**Created:** May 2026 | **For:** GV| **Goal:** Fundamentals → Advanced Agentic AI → Saleable Products
 
 ---
 
